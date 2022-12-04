@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\opengl\include\glm\core\func_common.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opengl\include\glm\core\func_common.inl(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opengl\include\glm\core\func_integer.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\code\graphtest\graphtest\graphtest\shader.h(56,34): warning C4101: “e”: 未引用的局部变量
+E:\code\graphtest\graphtest\graphtest\main.cpp(363,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(364,60): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(371,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(372,60): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(379,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(380,60): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(387,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(388,60): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(396,51): warning C4305: “参数”: 从“double”到“float”截断
+E:\code\graphtest\graphtest\graphtest\main.cpp(397,55): warning C4305: “参数”: 从“double”到“float”截断
+  graphtest.vcxproj -> E:\code\graphtest\graphtest\x64\Debug\graphtest.exe
